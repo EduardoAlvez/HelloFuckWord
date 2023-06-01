@@ -2,7 +2,7 @@ package HelloZe;
 
 public class EduardoAlves {
 	public static void main(String[] args) {
-		//variaveis;
+		//variaveis;a
 		EduardoAlves pessoa = new EduardoAlves();
 		int num1,num2,num3;
 		
