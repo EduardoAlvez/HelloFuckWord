@@ -2,7 +2,7 @@ package HelloZe;
 
 public class EduardoAlves {
 	public static void main(String[] args) {
-		//variaveis;a
+		//variaveis;
 		EduardoAlves pessoa = new EduardoAlves();
 		int num1,num2,num3;
 		
@@ -12,7 +12,7 @@ public class EduardoAlves {
 	}
 
 	private  int soma(int num1, int num2) {
-		int numSoma = num1 + num2;
+		int numSoma = num1 + num2 + num1;
 		return numSoma;
 		
 	}
